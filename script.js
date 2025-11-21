@@ -2,91 +2,91 @@
 const cocktails = [
     {
         name: "АПЕРОЛЬ ШПРИНЦ",
-        image: "images/1.png"
+        image: "images/1.jpg"
     },
     {
         name: "МАРТИНИ ПОРНСТАР",
-        image: "images/2.png"
+        image: "images/2.jpg"
     },
     {
         name: "МАРТИНИ РОЯЛЕ", 
-        image: "images/3.png"
+        image: "images/3.jpg"
     },
     {
         name: "МАТИЛЬДА",
-        image: "images/4.png"
+        image: "images/4.jpg"
     },
     {
         name: "КИР РОЯЛЬ",
-        image: "images/5.png"
+        image: "images/5.jpg"
     },
     {
         name: "БРАМБЛ",
-        image: "images/6.png"
+        image: "images/6.jpg"
     },
     {
         name: "КЛОВЕР КЛАБ",
-        image: "images/7.png"
+        image: "images/7.jpg"
     },
     {
         name: "НЕГРОНИ",
-        image: "images/8.png"
+        image: "images/8.jpg"
     },
     {
         name: "МАЛИНОВЫЙ НЕГРОНИ",
-        image: "images/9.png"
+        image: "images/9.jpg"
     },
     {
         name: "ЯБЛОЧНЫЙ ТИНИ",
-        image: "images/10.png"
+        image: "images/10.jpg"
     },
     {
         name: "ГРЮТ МУЛ",
-        image: "images/11.png"
+        image: "images/11.jpg"
     },
     {
         name: "ЛИМОННЫЙ ПИРОГ",
-        image: "images/12.png"
+        image: "images/12.jpg"
     },
     {
         name: "МАРГАРИТА",
-        image: "images/13.png"
+        image: "images/13.jpg"
     },
     {
         name: "САНДЕНС",
-        image: "images/14.png"
+        image: "images/14.jpg"
     },
     {
         name: "ВИСКИ САУЭР",
-        image: "images/15.png"
+        image: "images/15.jpg"
     },
     {
         name: "ОЛД ФЭШН",
-        image: "images/16.png"
+        image: "images/16.jpg"
     },
     {
         name: "БУЛЬВАРДЬЕ",
-        image: "images/17.png"
+        image: "images/17.jpg"
     },
     {
         name: "ДАЙКИРИ",
-        image: "images/18.png"
+        image: "images/18.jpg"
     },
     {
         name: "КО-ПАНГАН",
-        image: "images/19.png"
+        image: "images/19.jpg"
     },
     {
         name: "МАЙ ТАЙ",
-        image: "images/20.png"
+        image: "images/20.jpg"
     },
     {
         name: "МОХИТО",
-        image: "images/21.png"
+        image: "images/21.jpg"
     },
     {
         name: "ЛОНГ АЙЛЕНД",
-        image: "images/22.png"
+        image: "images/22.jpg"
     }
 ];
 
