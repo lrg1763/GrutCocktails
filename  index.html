@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Коктейли в ресторане Grut</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <h1 class="title">
+            <span class="title-line">КОКТЕЙЛИ В</span>
+            <span class="title-line">РЕСТОРАНЕ GRUT</span>
+        </h1>
+        <div class="price">ОДНА ЦЕНА: 999₽</div>
+    </header>
+    
+    <main class="main">
+        <div class="cocktail-container">
+            <button class="nav-btn prev-btn" id="prevBtn">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+                    <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </button>
+            
+            <div class="cocktail-card" id="cocktailCard">
+                <div class="cocktail-image" id="cocktailImage">
+                    <!-- Здесь будут ваши фото -->
+                </div>
+            </div>
+            
+            <button class="nav-btn next-btn" id="nextBtn">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+                    <path d="M9 18L15 12L9 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </button>
+        </div>
+        
+        <div class="bottom-controls">
+            <div class="counter" id="counter">
+                <span id="currentNumber">1</span>/<span id="totalNumber">22</span>
+            </div>
+            <button class="download-btn" id="downloadBtn">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <polyline points="7 10 12 15 17 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <line x1="12" y1="15" x2="12" y2="3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                </svg>
+                СКАЧАТЬ ФОТО
+            </button>
+        </div>
+    </main>
+    
+    <script src="script.js"></script>
+</body>
+</html>
